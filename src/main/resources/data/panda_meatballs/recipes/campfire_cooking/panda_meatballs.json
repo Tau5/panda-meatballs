@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "item": "panda_meatballs:panda_meat"
+    },
+    "result": "panda_meatballs:panda_meatballs",
+    "experience": 8
+}
